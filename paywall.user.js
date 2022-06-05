@@ -7,7 +7,7 @@
 // @icon           https://github.com/favicon.ico
 // @match        https://www.boyztube.com/*
 // @updateURL     https://github.com/thescs/BoyzTube-paywall-remover/raw/main/paywall.user.js
-// downloadURL    https://github.com/thescs/BoyzTube-paywall-remover/raw/main/paywall.user.js
+// @downloadURL    https://github.com/thescs/BoyzTube-paywall-remover/raw/main/paywall.user.js
 // @grant          none
 // @run-at         document-end
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.js
